@@ -1,0 +1,7 @@
+http:
+  proxy: http://127.0.0.1:1087
+  timeout: 20
+
+bot:
+  token: YOUR_TOKEN
+  poller: 10
