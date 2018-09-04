@@ -3,5 +3,5 @@ http:
   timeout: 20
 
 bot:
-  token: 599993419:AAHDQnIRRUxgTz654N4LJgSmyxmaonrdqoc
+  token: YOUR_TOKEN
   poller: 10
