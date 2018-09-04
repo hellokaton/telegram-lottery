@@ -6,6 +6,10 @@
 
 代码为 Go 源码，在本地需交叉编译为其他平台二进制包，修改配置文件即可。
 
+```bash
+go get https://github.com/biezhi/telegram-lottery/lottery
+```
+
 ```yaml
 http:
   proxy: 
@@ -14,6 +18,12 @@ http:
 bot:
   token: YOUR_TOKEN
   poller: 10
+```
+
+启动机器人
+
+```bash
+./lottery
 ```
 
 ## 使用
